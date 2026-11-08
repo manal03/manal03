@@ -5,7 +5,6 @@ A Recent Computer Graduate
 ------------------------
 
 *   🌍  I'm based in Toronto
-*   ✉️  You can contact me at [manali.bisht17@gmail.com](mailto:manali.bisht17@gmail.com)
 *   🚀  I'm currently working on [an archive for kpop fans](https://kpopdancearchive.com/)
 *   👗  I'm also currently working on a thrifting app I hope to publish on play store soon (React Native, Firebase, TomTom API)
 *   I am also learning databricks, pyspark, S3 and other data related concepts
